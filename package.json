@@ -4,6 +4,7 @@
   "description": "starter-kit using TypeScript",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Krzysztof Grudzień",
